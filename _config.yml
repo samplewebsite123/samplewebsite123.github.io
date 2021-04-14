@@ -1,8 +1,8 @@
 # Site settings
 title: ICSP 2021
 
-url: 'icsp2021.github.io'
-baseurl: '/2021'
+url: 'samplewebsite123.github.io'
+baseurl: ''
 
 conference_title: "International Conference on Security & Privacy"
 conference_title_short: "ICSP"
