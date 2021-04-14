@@ -2,7 +2,7 @@
 title: ICSP 2021
 
 url: icsp2021.github.io/
-baseurl: ''
+baseurl: '/2021'
 
 conference_title: "International Conference on Security & Privacy"
 conference_title_short: "ICSP"
